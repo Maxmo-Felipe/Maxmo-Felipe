@@ -18,4 +18,4 @@
 
 </div><br/>
 
-Como estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, me dedico ao máximo para ser um excelente profissional tecnologico. Venho para contribuir para um mundo digital mais seguro e ético.
+Como estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, me dedico ao máximo para ser um excelente profissional de TI. Venho para contribuir para um mundo digital mais Inovador, Seguro e Ético.
