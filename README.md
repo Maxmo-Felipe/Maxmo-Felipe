@@ -13,9 +13,7 @@
 ## Tecnologias que eu uso, estudo e aprimoro no meu dia
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-0088FF?style=for-the-badge&logo=cirrusci&logoColor=white" />
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
 Como estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, me dedico ao máximo para ser um excelente profissional tecnologico. Venho para contribuir para um mundo digital mais seguro e ético.
