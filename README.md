@@ -14,6 +14,8 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img align="center" alt="C-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+
 </div><br/>
 
 Como estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia, me dedico ao máximo para ser um excelente profissional tecnologico. Venho para contribuir para um mundo digital mais seguro e ético.
